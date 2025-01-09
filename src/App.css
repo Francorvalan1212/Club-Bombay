@@ -1,0 +1,12 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  scroll-behavior: smooth;
+}
+
+.App {
+  overflow-x: hidden;
+  background: #0d0d0d;
+  color: #fff;
+}
